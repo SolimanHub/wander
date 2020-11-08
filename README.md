@@ -1,0 +1,2 @@
+# Wander
+PKGBUILD de WanderOS
